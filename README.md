@@ -1,3 +1,4 @@
+
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/3WK28ho-)
 # Bitácora
 Nombre del estudiante:  eduardo arrieta
@@ -10,3 +11,4 @@ descripcion del proyecto:creamos un repositoria en line apara subir los cambios 
     - `src`: para almacenar el código fuente.
     - `docs`: para guardar la documentación.
     - `images`: para imágenes relacionadas con el proyecto.
+Primero se crear los archivos corespondientes de cada uno, luego se le agrega el contenido correspondiente a cada uno según su nombre, en este caso, los de repositorio local y remoto, describir como se hace cada uno.
