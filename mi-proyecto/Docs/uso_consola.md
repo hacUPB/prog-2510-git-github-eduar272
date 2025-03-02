@@ -1,0 +1,2 @@
+# Uso de consola
+el uso de la consola es la parte fundamental para la realzacion de la evaluacion, el buen manejo de la imagen ayudara para la buena relizacion del examen, todas la herramientas para acortar la escritura de los comandos es algo que debemos manejar al día a día.

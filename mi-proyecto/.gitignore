@@ -1,0 +1,27 @@
+# Archivos de entorno virtual
+venv/
+.env/
+__pycache__/
+*.pyc
+*.pyo
+
+# Archivos de configuración de IDEs
+.vscode/
+.idea/
+
+# Archivos de caché
+*.log
+*.pot
+*.mo
+
+# Dependencias de paquetes (si se usan en lugar de requerirlos mediante un archivo requirements.txt)
+*.egg
+*.egg-info/
+
+# Archivos generados por herramientas de distribución de Python
+dist/
+build/
+
+# Archivos temporales del sistema operativo
+.DS_Store
+Thumbs.db
