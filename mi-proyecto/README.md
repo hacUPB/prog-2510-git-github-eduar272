@@ -37,6 +37,6 @@ Para hacer de las carpetas con la sintaxis correcta se debe hacer uso del lengua
 
 | Nombre de la Carpeta | Enlace                          |
 |----------------------|---------------------------------|
-|   repositorio_local  | [repositorio_local](\prog-2510-git-github-eduar272\mi-proyecto\Docs\repositorio_local.md)|
-|  repositorio_remoto  | [repositorio_remoto](\prog-2510-git-github-eduar272\mi-proyecto\Docs\repositorio_remoto.md)|
-|   uso_consola        | [uso de consola](\prog-2510-git-github-eduar272\mi-proyecto\Docs\uso_consola.md)|
+|   repositorio_local  | [repositorio_local](mi-proyecto/Docs/repositorio_local.md)|
+|  repositorio_remoto  | [repositorio_remoto](mi-proyecto/Docs/repositorio_remoto.md)|
+|   uso_consola        | [uso de consola](mi-proyecto/Docs/uso_consola.md)|
