@@ -1,6 +1,7 @@
-# Uso de consola
-El uso de la consola es la parte fundamental para la realzacion de la evaluacion, el buen manejo de la imagen ayudara para la buena relizacion del examen, todas la herramientas para acortar la escritura de los comandos es algo que debemos manejar al día a día.
-Tal vez la parte más fundamental de esta actividad es el afianzamniento que debemos crear con la consola y los diferentes comandos que tenmso que ejecutar
+# <span style="color: green;">Uso de consola</span>
+ 
+El uso de la consola es la parte fundamental para la realzacion de la evaluacion, el buen manejo de la imagen ayudara para la buena relizacion del examen, todas la herramientas para acortar la escritura de los comandos es algo que debemos manejar al día a día.  
+Tal vez la parte más fundamental de esta actividad es el afianzamniento que debemos crear con la consola y los diferentes comandos que tenmso que ejecutar  
 Por ejemplo:
 
 | Comando                                | Descripción                                                                 |

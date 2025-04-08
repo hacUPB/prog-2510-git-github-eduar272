@@ -1,12 +1,18 @@
-# repositorio
+# <span style="color: yellow;">Repositorio</span>
 
 ## 
-descripcion del proyecto:
+Descripcion del proyecto:
 
-creamos un repositoria en line apara subir los cambios que hagamos a nuestro codigo con las espesificacion que nos muestra el porfesor, las cuales son:
+Creamos un repositoria en línea para subir los cambios que hagamos a nuestro codigo con las espesificacion que nos muestra el porfesor, las cuales son:
 
 
-primero se crear los archivos corespondientes de cada uno, luego se le agrega el contenido correspondiente a cada uno según su nombre, en este caso, los de repositorio local y remoto, describir como se hace cada uno.
+Primero se crear los archivos corespondientes de cada uno, Docs, images, src, luego se le agrega el contenido correspondiente a cada uno según su nombre, en este caso de Docs, los de repositorio local y remoto, describir como se hace cada uno.
+
+En la primera carpeta de Docs, se crean tres más dentro de ella, repositorio local, repositorio remoto, y el uso de consola, describir como se hace cada uno.
+
+Para hacer de las carpetas con la sintaxis correcta se debe hacer uso del lenguaje formato markdown, el cual eso unos comandos que son:
+
+## Lista de comandos de mardown 
 | Elemento          | Sintaxis Markdown                           | Ejemplo                          | Resultado                        |
 |-------------------|---------------------------------------------|----------------------------------|----------------------------------|
 | Encabezados       | `#`, `##`, `###`, etc.                     | `# Título`                       | <h1>Título</h1>                  |
@@ -31,6 +37,6 @@ primero se crear los archivos corespondientes de cada uno, luego se le agrega el
 
 | Nombre de la Carpeta | Enlace                          |
 |----------------------|---------------------------------|
-|   repositorio_local  | [repositorio_local](C:\Users\ASUS\Documents\PROGRAMACION\mi_proyecto\mi_proyect\prog-2510-git-github-eduar272\mi-proyecto\Docs\repositorio_local.md)|
-|  repositorio_remoto  | [repositorio_remoto](C:\Users\ASUS\Documents\PROGRAMACION\mi_proyecto\mi_proyect\prog-2510-git-github-eduar272\mi-proyecto\Docs\repositorio_remoto.md)|
-|   uso_consola        | [uso de consola](C:\Users\ASUS\Documents\PROGRAMACION\mi_proyecto\mi_proyect\prog-2510-git-github-eduar272\mi-proyecto\Docs\uso_consola.md)|
+|   repositorio_local  | [repositorio_local](\prog-2510-git-github-eduar272\mi-proyecto\Docs\repositorio_local.md)|
+|  repositorio_remoto  | [repositorio_remoto](\prog-2510-git-github-eduar272\mi-proyecto\Docs\repositorio_remoto.md)|
+|   uso_consola        | [uso de consola](\prog-2510-git-github-eduar272\mi-proyecto\Docs\uso_consola.md)|
